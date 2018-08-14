@@ -1,1 +1,9 @@
-The goal is to merge mpv and libcaca into a low-intensity video-player module for web-based implementations. Normally, one would use "mpv libcaca somevideo.mp4".
+The goal is to merge mpv and libcaca into a low-intensity video-player module for web-based implementations.
+Normally, one would use "mpv libcaca somevideo.mp4". The goal is to have options or stand-alone player functionality.
+
+Project site: derlg.ddns.net
+
+Options:
+-Drupal Module
+-Embedded VLC player
+-Embedded MPV player
